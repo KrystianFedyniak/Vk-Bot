@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkBot", "VkBot.csproj", "{F647314F-C136-4BD0-9133-1D22ABEB7D7B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VKBot Setup", "..\VKBot Setup\VKBot Setup.vdproj", "{3B6F6333-7B4D-4737-9C45-39472DBD49F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F647314F-C136-4BD0-9133-1D22ABEB7D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F647314F-C136-4BD0-9133-1D22ABEB7D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F647314F-C136-4BD0-9133-1D22ABEB7D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F647314F-C136-4BD0-9133-1D22ABEB7D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6F6333-7B4D-4737-9C45-39472DBD49F8}.Debug|Any CPU.ActiveCfg = Debug
+		{3B6F6333-7B4D-4737-9C45-39472DBD49F8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC591555-DBFD-433E-AEE5-02E8964C8917}
+	EndGlobalSection
+EndGlobal
